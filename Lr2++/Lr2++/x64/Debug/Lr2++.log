@@ -1,0 +1,4 @@
+﻿  Lr2++.cpp
+C:\Users\user\Documents\Пашок\Новая папка\Lr2++\Lr2++.cpp(323,23): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\user\Documents\Пашок\Новая папка\Lr2++\Lr2++.cpp(357,23): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Lr2++.vcxproj -> C:\Users\user\Documents\Пашок\Новая папка\Lr2++\x64\Debug\Lr2++.exe

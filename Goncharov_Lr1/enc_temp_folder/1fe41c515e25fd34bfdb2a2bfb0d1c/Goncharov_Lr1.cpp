@@ -86,8 +86,7 @@ public:
     }
 
     void saveToFile(ofstream& out) {
-        if (!_name.empty())
-            out << "KS:" << _name << "," << _quantity << "," << _count_work << "," << _station_class << endl;
+        if (!_name.empty()) out << "KS:" << _name << "," << _quantity << "," << _count_work << "," << _station_class << endl;
     }
 
     bool loadFromFile(const string& data) {
